@@ -5,7 +5,7 @@ Coursera 학습 계획과 일본어 Audible 구독·라이브러리 확인 안�
 ## 바로가기
 
 - [AppGuide+ 전체목차](https://github.com/appguideplus/app-guides/blob/main/README.md)
-- [앱별 웹 가이드](https://appguideplus.com/ko/apps/) · [카카오톡 채널](https://pf.kakao.com/_bxkarX)
+- [앱별 웹 가이드](https://appguideplus.com/ko/apps/?utm_source=github) · [카카오톡 채널](https://pf.kakao.com/_bxkarX)
 
 ## 서비스별 목차
 
