@@ -2,7 +2,7 @@
 
 単品購入した本と会員特典で追加した本では、退会後の扱いが異なります。ダウンロード済みかどうかだけで判断しないようにしましょう。
 
-[Audible](audible.ja.md) · [全ガイド](README.md) · [ウェブ版](https://appguideplus.com/ja/audible/library/)
+[Audible](audible.ja.md) · [全ガイド（韓国語）](README.md) · [ウェブ版](https://appguideplus.com/ja/audible/library/)
 
 ## 聴きたい本を先に確認
 
