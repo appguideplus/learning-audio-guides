@@ -2,7 +2,7 @@
 
 まず聴きたい作品を検索し、プランの対象かどうかを確認しましょう。StandardとPremiumでは本の選び方が異なります。
 
-[全ガイド](README.md) · [ウェブ版](https://appguideplus.com/ja/audible/)
+[全ガイド（韓国語）](README.md) · [ウェブ版](https://appguideplus.com/ja/audible/)
 
 ## どのように聴きたいですか？
 
