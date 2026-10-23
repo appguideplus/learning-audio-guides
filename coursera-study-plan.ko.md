@@ -1,8 +1,16 @@
+![AppGuide+ LEARN & LISTEN](cover.svg)
+
+[이 분야의 안내](README.md) · [AppGuide+](https://github.com/appguideplus/app-guides#readme)
+
 # Coursera 수강 계획과 중복 구독 확인
 
 배울 강좌 목록과 완료할 시간을 먼저 정하면 단일 과정과 Plus 중 필요한 방식을 고르기 쉽습니다. 수료증은 실제 완료 조건을 충족해야 받을 수 있습니다.
 
-[Coursera](coursera.ko.md) · [전체 가이드](README.md) · [웹에서 보기](https://appguideplus.com/ko/coursera/study-plan/)
+**[웹사이트에서 안내 보기 →](https://appguideplus.com/ko/coursera/study-plan/?utm_source=github)**
+
+일부 웹 안내에는 제휴 링크가 포함됩니다. 해당 링크를 통한 구매·가입으로 운영자가 수수료를 받을 수 있습니다. AppGuide+는 독립 가이드입니다.
+
+---
 
 ## 한 달에 끝낼 범위를 정하기
 
@@ -10,11 +18,19 @@
 
 일주일에 확보할 수 있는 시간을 기준으로 학습 계획을 세웁니다. 여러 강좌를 동시에 등록하는 것보다 끝낼 순서를 정하는 편이 진행 상황을 확인하기 쉽습니다.
 
+<details>
+<summary><strong>Plus 포함 여부 확인</strong></summary>
+
 ## Plus 포함 여부 확인
 
 각 강좌의 Plus 포함 표시를 확인합니다. 모든 강좌·학위·MasterTrack이 포함되는 상품은 아닙니다.
 
 동일한 이름의 프로그램이라도 결제 방식과 제공 범위가 다를 수 있습니다. 수료증·과제 접근·이용 기간을 선택한 과정 화면에서 확인하세요.
+
+</details>
+
+<details>
+<summary><strong>중복 결제 확인</strong></summary>
 
 ## 중복 결제 확인
 
@@ -22,15 +38,30 @@
 
 과정 진도와 구독 결제는 별도로 관리됩니다. 구독을 정리할 때 접근 가능 기간과 저장된 진도를 확인하고 결제 내역을 보관하세요.
 
+</details>
+
+<details>
+<summary><strong>수료와 다음 결제 전에</strong></summary>
+
 ## 수료와 다음 결제 전에
 
 완료한 강의 수뿐 아니라 평가·과제·인증 등 실제 수료 조건을 확인합니다. 수료증을 학위나 채용 보장처럼 표현하지 마세요.
 
 다음 결제 전에 남은 과정과 학습 시간을 다시 비교하세요. 취소와 환불은 같은 절차가 아닐 수 있으므로 해당 구매의 현재 조건을 확인합니다.
 
+</details>
+
+<details>
+<summary><strong>함께 볼 안내</strong></summary>
+
 ## 함께 볼 안내
 
 - [코세라 Plus와 단일 과정: 포함 강좌·수료증 확인](coursera.ko.md)
+
+</details>
+
+<details>
+<summary><strong>출처와 확인일</strong></summary>
 
 ## 출처와 확인일
 
@@ -40,3 +71,11 @@
 내용 확인일: 2026-09-14. GitHub판 편집일: 2026-09-14.
 
 AppGuide+가 작성한 독립적인 이용 안내이며, 각 서비스의 공식 고객지원 문서는 아닙니다.
+
+</details>
+
+---
+
+[웹 안내로 이어가기](https://appguideplus.com/ko/coursera/study-plan/?utm_source=github) · [다른 안내 고르기](README.md)
+
+읽기 구성 정리: 2026-10-23.
